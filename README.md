@@ -11,7 +11,7 @@
 
 Experience:
 
-Currently working as SENIOR SOFTWARE ENGINEER IN TEST AUTOMATION at NTUC Income, Singapore. 
+Currently working as SENIOR SOFTWARE ENGINEER IN TEST AUTOMATION at Singapore. 
  
 EDUCATION: 
 Guru Nanak College Arts and Science College, Chennai - Bachelor of Mathematics (B.sc)
@@ -37,7 +37,7 @@ Mobile Automation:
 
 WORK EXPERIENCE: 
 
-NTUC Income, Singapore - Unified Portal – Automation Testing: 
+ Singapore client - Unified Portal – Automation Testing: 
 June 2021 – Till now
 
 eClinicalworks - Automation Testing:
